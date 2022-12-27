@@ -1,7 +1,5 @@
 package org.agiBank.writing;
 
-import org.agiBank.fileHandler.FileHandler;
-
 import java.io.IOException;
 
 public class WritingFile {
