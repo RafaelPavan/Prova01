@@ -1,4 +1,0 @@
-Pedro
-Paulo
-true
-true
