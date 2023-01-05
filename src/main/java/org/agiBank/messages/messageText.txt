@@ -1,0 +1,29 @@
+Serviço de valores das Vendas 
+Id: 001 não pertence a pesquisa de valores de vendas.
+Id: 001 não pertence a pesquisa de valores de vendas.
+Id: 001 não pertence a pesquisa de valores de vendas.
+Id: 002 não pertence a pesquisa de valores de vendas.
+Id: 002 não pertence a pesquisa de valores de vendas.
+Id: 002 não pertence a pesquisa de valores de vendas.
+Id: 004 não pertence a pesquisa de valores de vendas.
+Id: 004 não pertence a pesquisa de valores de vendas.
+
+Serviço de quantidade de Vendedores 
+Id: 002 não pertence a pesquisa de quantidade de vendedores.
+Id: 002 não pertence a pesquisa de quantidade de vendedores.
+Id: 002 não pertence a pesquisa de quantidade de vendedores.
+Id: 003 não pertence a pesquisa de quantidade de vendedores.
+Id: 003 não pertence a pesquisa de quantidade de vendedores.
+Id: 003 não pertence a pesquisa de quantidade de vendedores.
+Id: 004 não pertence a pesquisa de quantidade de vendedores.
+Id: 004 não pertence a pesquisa de quantidade de vendedores.
+
+Quantidade de Clientes 
+Id: 001 não pertence a pesquisa de quantidade de clientes.
+Id: 001 não pertence a pesquisa de quantidade de clientes.
+Id: 001 não pertence a pesquisa de quantidade de clientes.
+Id: 003 não pertence a pesquisa de quantidade de clientes.
+Id: 003 não pertence a pesquisa de quantidade de clientes.
+Id: 003 não pertence a pesquisa de quantidade de clientes.
+Id: 004 não pertence a pesquisa de quantidade de clientes.
+Id: 004 não pertence a pesquisa de quantidade de clientes.
