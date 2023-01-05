@@ -1,4 +1,0 @@
-Id da Maior Venda: 10, valor da Venda: 1199.00
-O pior Vendedor foi: Bragança, valor da Venda: 105.50
-Quantidade de Vendedores: 3
-Quantidade de Clientes: 3

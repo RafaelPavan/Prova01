@@ -14,7 +14,7 @@ public class Sales {
 
     public static void biggestSale() throws IOException {
         Scanner scanner = new Scanner(new File("C:\\JAVA\\ProvaAgibank\\src\\main\\java\\org\\agiBank\\data" +
-                "\\in\\text.txt"), StandardCharsets.UTF_8);
+                "\\in\\textIn.txt"), StandardCharsets.UTF_8);
         FileWriter fileWriter = new FileWriter("C:\\JAVA\\ProvaAgibank\\src\\main\\java\\org\\agiBank\\data" +
                 "\\out\\textOut.txt");
         FileWriter fileError = new FileWriter("C:\\JAVA\\ProvaAgibank\\src\\main\\java\\org" +

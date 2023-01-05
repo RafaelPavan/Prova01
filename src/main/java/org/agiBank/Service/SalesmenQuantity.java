@@ -16,7 +16,7 @@ public class SalesmenQuantity {
 
     public static void salesmen() throws IOException {
         Scanner scanner = new Scanner(new File("C:\\JAVA\\ProvaAgibank\\src\\main\\java\\org\\agiBank\\data" +
-                "\\in\\text.txt"), StandardCharsets.UTF_8);
+                "\\in\\textIn.txt"), StandardCharsets.UTF_8);
         FileWriter ps = new FileWriter("C:\\JAVA\\ProvaAgibank\\src\\main\\java\\org\\agiBank\\data" +
                 "\\out\\textOut.txt", true);
         FileWriter fileError = new FileWriter("C:\\JAVA\\ProvaAgibank\\src\\main\\java\\org" +

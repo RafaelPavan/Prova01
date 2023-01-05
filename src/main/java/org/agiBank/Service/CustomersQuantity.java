@@ -19,7 +19,7 @@ public class CustomersQuantity {
 
     public static void customers() throws IOException {
         Scanner scanner = new Scanner(new File("C:\\JAVA\\ProvaAgibank\\src\\main\\java\\org\\agiBank\\data" +
-                "\\in\\text.txt"), StandardCharsets.UTF_8);
+                "\\in\\textIn.txt"), StandardCharsets.UTF_8);
         FileWriter fileWriter = new FileWriter("C:\\JAVA\\ProvaAgibank\\src\\main\\java\\org\\agiBank\\data" +
                 "\\out\\textOut.txt", true);
         FileWriter fileError = new FileWriter("C:\\JAVA\\ProvaAgibank\\src\\main\\java\\org" +
